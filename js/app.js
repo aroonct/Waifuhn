@@ -1,5 +1,5 @@
 
-var tags = 'waifu';
+var tags = 'ass';
 
 function cambiarTags(){
 
