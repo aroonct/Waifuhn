@@ -8,7 +8,7 @@
 ##### Solo ingresa a :  [wifuhn](https://waifuhn.vercel.app)
 
 #### Encontraras la siguiente pagina, por defecto la categoria es 'ASS'.
-![web](https://raw.githubusercontent.com/ever2402/Waifuhn/main/Captura%20de%20pantalla%20(122).png)
+![web](https://raw.githubusercontent.com/AnimeCoding/Waifuhn/main/Captura%20de%20pantalla%20(123).png)
 #### Selecciona otras categorías con el select que se encuentra en la parte de arriba, las categorías disponibles son: 
 
 
