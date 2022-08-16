@@ -25,6 +25,7 @@ const cargarwaifus = async() => {
             imagenes += `
             <div class="contenedorimg">
             <img class="waifuimg" src="${imagen.url}"  alt="">
+            <button class="siguiente" onclick="cargarwaifus()">></button>
             <a href="${imagen.url}" class="adescargar" download="${imagen.url}">
             <button class="descargar" >DESCARGAR</button>
             </a>
