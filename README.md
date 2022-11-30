@@ -1,6 +1,10 @@
 
 ##  WAIFUHN
 
+### 🚫 SIN SOPORTE 🚫
+
+### 🚫🚫🚫🚫🚫🚫🚫🚫
+
 ##### WaifuHN es un bucador de waifus online y simple que cuenta con varias categorias para elegir, fue creado usando la API de 'waifu.im'.
 
 ## ¿Cómo Usarlo?
