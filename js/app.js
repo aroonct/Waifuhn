@@ -10,7 +10,7 @@ function cambiarTags(){
 
 
 const cargarwaifus = async() => {
-    const respuesta = await fetch(`https://api.waifu.im/random/?selected_tags=${tags}`);
+    const respuesta = await fetch(`https://api.waifu.im/search?included_tags=${tags}`);
     
     console.log(respuesta);
     
